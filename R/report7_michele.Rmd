@@ -1,0 +1,16 @@
+---
+title: "report7_michele"
+author: "michele"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r}
+k <- 0
+while (TRUE){
+  k = k + 1
+  print(paste(k, "times infinity"))
+}
+```
+
+
