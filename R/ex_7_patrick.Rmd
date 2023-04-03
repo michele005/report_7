@@ -1,0 +1,13 @@
+---
+title: "ex_7_patrick"
+author: "Patrick Bigler"
+date: "2023-04-03"
+output: html_document
+---
+
+```{r}
+while (TRUE) {
+  print("infinity")
+}
+```
+
