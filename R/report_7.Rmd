@@ -1,0 +1,12 @@
+---
+title: "report_7"
+author: "michele"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r}
+table1 <- datasets::women
+plot(table1)
+```
+
